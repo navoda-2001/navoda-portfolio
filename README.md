@@ -29,7 +29,8 @@ I enjoy working with data, building dashboards, and generating insights to suppo
 - Handled missing values
 - Identified survival patterns
 
-👉 
+ https://github.com/navoda-2001/titanic-survival-analysis
+ 
 
 ---
 
@@ -38,8 +39,9 @@ I enjoy working with data, building dashboards, and generating insights to suppo
 - Analyzed customer spending
 - Visualized insights
 
- (Paste your GitHub link here)
+https://github.com/navoda-2001/python-sql-sales-analysis
 
+ 
 ---
 
 ##  Business Analyst Projects
@@ -49,6 +51,8 @@ I enjoy working with data, building dashboards, and generating insights to suppo
 - Created KPI metrics
 - Analyzed business trends
 
+https://github.com/navoda-2001/Sales_Performance_Analysis_Project
+
  
 ---
 
@@ -57,7 +61,7 @@ I enjoy working with data, building dashboards, and generating insights to suppo
 - Identified performance gaps
 - Generated insights
 
- (Paste your GitHub link here)
+ https://github.com/navoda-2001/student-performance-analysis-python
 
 ---
 
@@ -71,4 +75,4 @@ I enjoy working with data, building dashboards, and generating insights to suppo
 
 ##  Contact
 - Email: methsaraninavoda2001@gmail.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/navoda-2001
